@@ -1,6 +1,7 @@
 import 'package:geolocator/geolocator.dart';
+import 'configMaps.dart';
 import 'requestAssistant.dart';
-String mapKey='AIzaSyBlK4f4sxo_auHto3EtTWPPcN9QhVJmkzM';
+
 class AssistantMethods
 {
 
