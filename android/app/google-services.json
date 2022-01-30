@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041666118996",
+    "project_id": "fast-jo-df590",
+    "storage_bucket": "fast-jo-df590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041666118996:android:9bd0173e8d8bd031fde4c1",
+        "android_client_info": {
+          "package_name": "com.fastjoslh.fast_jo_u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041666118996-vumgeqior2l0atr49hsnv12n6vhmabcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlK4f4sxo_auHto3EtTWPPcN9QhVJmkzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041666118996-vumgeqior2l0atr49hsnv12n6vhmabcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
